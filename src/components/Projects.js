@@ -23,7 +23,7 @@ export const Projects = () => {
                             <p className="text-2xl font-bold text-[#327361] tracking-wider">Node, Express, MongoDb -
                                 Mongoose, React, Bootstrap</p>
                             <div className="flex">
-                                <a target="_blank" rel="noreferrer" href="https://dashboard-doctor.herokuapp.com/">
+                                <a target="_blank" rel="noreferrer" href="https://https://appdoctor.project-online.site/">
                                     <button
                                         className="text-center px-4 py-2 mx-4 my-2 bg-white text-black-700 font-bold text-lg hover:bg-[#d98014]">Demo
                                     </button>
