@@ -1,4 +1,3 @@
-# Portfolio Website 
+# Portfolio Website
 
-## Link: dawidsalamon@gmail.cokm
-
+## Link: dawidsalamon@gmail.com
